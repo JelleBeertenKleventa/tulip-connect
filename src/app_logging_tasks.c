@@ -23,6 +23,8 @@
 
 /*
  example message change for TEST BRANCH
+ * another line example on this branch
+ * 
  */
 
 APP_LOGGING_TASKS_DATA app_logging_tasksData;
