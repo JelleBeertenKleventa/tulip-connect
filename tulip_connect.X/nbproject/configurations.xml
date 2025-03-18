@@ -346,8 +346,8 @@
         <itemPath>../src/files/circulation_pump.h</itemPath>
         <itemPath>../src/files/hardware_rev.h</itemPath>
         <itemPath>../src/files/sdcard.h</itemPath>
-        <itemPath>../src/files/credentials.h</itemPath>
         <itemPath>../src/files/logging.h</itemPath>
+        <itemPath>../src/files/credentials.h</itemPath>
       </logicalFolder>
       <logicalFolder name="packs" displayName="packs" projectFiles="true">
         <logicalFolder name="ATSAME54P20A_DFP"
