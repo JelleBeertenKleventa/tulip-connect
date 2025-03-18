@@ -21,8 +21,9 @@
 #define LOGGING_TIMEOUT_MS 200000
 #define TCPIP_STACK_INDEX_0 0
 
-//int stackResetCount = 0;
-//int TcpIPStackResetCount = 0;  
+/*
+ example message change for TEST BRANCH
+ */
 
 APP_LOGGING_TASKS_DATA app_logging_tasksData;
 
